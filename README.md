@@ -31,21 +31,26 @@ BitBazaar is a comprehensive web application designed to provide users with real
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/bitBazaar.git
-   cd bitBazaar
+   git clone https://github.com/shreyaspathak11/BitBazaar.git
+   cd frontend
+   ```
+   OR
+    ```bash
+   git clone https://github.com/shreyaspathak11/BitBazaar.git
+   cd Backend
    ```
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
    ```bash
    npm install
    ```
 
-3. **Run the Application:**
+4. **Run the Application:**
    ```bash
    npm start
    ```
 
-4. **Open in Browser:**
+5. **Open in Browser:**
    Open your browser and navigate to `http://localhost:3000` to explore BitBazaar.
 
 ## Contributing
